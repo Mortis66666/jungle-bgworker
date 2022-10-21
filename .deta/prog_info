@@ -1,0 +1,1 @@
+{"id":"32c5dc10-cbd2-4830-8095-ec7d6a8c5d24","space":35707,"runtime":"nodejs14.x","name":"jungle-bgworker","path":"a7l0qb","project":"c0r14x1n","account":"144798365827","region":"ap-southeast-1","deps":["express@^4.18.2","mongodb@^4.11.0"],"envs":["uri"],"public":false,"log_level":"debug","cron":"2 minutes"}
